@@ -1,0 +1,126 @@
+    1  pwd
+    2  mkdir training
+    3  git install
+    4  git init
+    5  vim hello.cpp
+    6  pwd
+    7  ls -la
+    8  rm -rf .git
+    9  cd trainig
+   10  pwd
+   11  mkdir training
+   12  cd training
+   13  git init
+   14  touch hello.cpp
+   15  gcc
+   16  gcc
+   17  gcpp
+   18  gcc
+   19  ls -la
+   20  git status
+   21  vim hello.cpp
+   22  git commit
+   23  git add hello.cpp 
+   24  git commit
+   25  ls -la
+   26  git status
+   27  git commit
+   28  git log
+   29  vim hello.cpp
+   30  ls -la
+   31  vim hello.cpp
+   32  gcc
+   33  git status
+   34  git add hello.cpp 
+   35  git commit -m"hello kitty"
+   36  git log --follow
+   37  git log
+   38  git show
+   39  vim hello.cpp 
+   40  git status
+   41  git diff hello.cpp
+   42  git diff --cached
+   43  git diff --staged
+   44  git diff
+   45  git diff
+   46  git status
+   47  git reset
+   48  git reset HEAD hello.cpp
+   49  git status
+   50  git checkout -- hello.cpp
+   51  git status
+   52  cat hello.cpp 
+   53  gcc
+   54  cpp
+   55  history
+   56  history > history.txt
+   57  cat history.txt 
+   58  vim history.txt 
+   59  vim ~/.viminfo 
+   60  vim ~/.vimrc
+   61  ls
+   62  vim history.txt 
+   63  vim history.txt 
+   64  pwd
+   65  /c/MinGW/bin/gcc hello.cpp 
+   66  ls
+   67  /c/MinGW/bin/gcc hello.cpp 
+   68  /c/MinGW/bin/gcc hello.cpp -o a.out
+   69  ls
+   70  ls -la
+   71  /c/MinGW/bin/gcc 
+   72  /c/MinGW/bin/gcc hello.cpp -o ./a.out
+   73  ls -la
+   74  /c/MinGW/bin/gcc hello.cpp a.out
+   75  /c/MinGW/bin/gcc hello.cpp -o a.out
+   76  /c/MinGW/bin/gcc hello.cpp -o a.outls
+   77  ls
+   78  ls -la
+   79  /c/MinGW/bin/gcc hello.cpp -o ~/training/a.out
+   80  ls
+   81  git
+   82  PkgMgr.exe 
+   83  sudo su
+   84  git diff
+   85  git branch
+   86  git checkout -b second
+   87  git branch
+   88  git checkout master
+   89  vim hello.cpp 
+   90  git diff
+   91  git add hello.cpp
+   92  git commit
+   93  git log
+   94  git checkout second
+   95  vim hello.cpp 
+   96  vim hello.cpp 
+   97  git log
+   98  git log --help
+   99  git log --graph
+  100  git merge --help
+  101  git merge master
+  102  ls
+  103  cat hello.cpp 
+  104  git merge master
+  105  git add hello.cpp 
+  106  git commit
+  107  git merge master
+  108  cat hello.cpp 
+  109  git mergetool
+  110  vim hello.cpp 
+  111  git status
+  112  git add hello.cpp
+  113  git commit -m"merge"
+  114  git log
+  115  git log --graph
+  116  gitk
+  117  gitc
+  118  gitk &
+  119  ps
+  120  ps -a
+  121  kill -9 6804
+  122  gitk
+  123  man
+  124  uname -a
+  125  history
+  126  history > history.txt 
